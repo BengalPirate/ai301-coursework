@@ -41,9 +41,8 @@ have real experience in Java, C++, Swift, and Kotlin. I have done mobile
 app development on both sides — Swift/iOS and Kotlin and Java on Android
 — so a native mobile target or a C/C++ codebase does not put me off. I
 can read my way around an unfamiliar codebase if the issue names the
-files to touch. I have used git and the fork-branch-PR workflow before, but
-this is my first contribution to a repository I do not own, so I would
-rather land a small, well-specified change than a clever one.
+files to touch. I have used git and the fork-branch-PR workflow before,
+and I would rather land a small, well-specified change than a clever one.
 
 I want to get better at reading a project's existing conventions and
 matching them, and at writing tests that a maintainer trusts. Rank
